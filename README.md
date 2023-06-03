@@ -20,8 +20,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![ex 2](https://github.com/Keerthanasampathkumar/Muttiple-capacity-with-infinite-capacity/assets/119477890/e0c8d7b2-0242-4523-9923-dc14bd5a6049)
 
 ## Program:
-# Developed by: M.PAVITHRA
-# Reg no:212222230066
+Developed by: KEERTHANA S
+Reg no:212222230066
 ```
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
